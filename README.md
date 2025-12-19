@@ -55,10 +55,11 @@ graph TD
 
 不同来源的文件在格式和内容上都会有不同，因此两者需要通过**相同来源**下载。  
 推荐使用ensembl数据库下载。https://www.ensembl.org/  
-小鼠基因组：Mus_musculus.GRCm39.dna_sm.primary_assembly.fa.gz;
-小鼠基因组注释文件：Mus_musculus.GRCm39.115.gtf.gz
-人基因组：Homo_sapiens.GRCh38.dna_sm.primary_assembly.fa.gz;
-人基因组注释文件：Homo_sapiens.GRCh38.115.gtf.gz
+小鼠基因组：Mus_musculus.GRCm39.dna_sm.primary_assembly.fa.gz;  
+小鼠基因组注释文件：Mus_musculus.GRCm39.115.gtf.gz  
+人基因组：Homo_sapiens.GRCh38.dna_sm.primary_assembly.fa.gz;  
+人基因组注释文件：Homo_sapiens.GRCh38.115.gtf.gz  
+
 
 ---
 
