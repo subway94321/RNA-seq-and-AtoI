@@ -1,11 +1,6 @@
 # RNA-seq-and-AtoI
 
-这是一个为您量身定制的中文项目文档（`README.md`）。
-
-这份文档不仅翻译了原有内容，还根据 **nf-core/rnaseq**、**nf-core/differentialabundance** 以及 **REDItools** 的官方最佳实践进行了补充和完善。文档采用了类似于 `fastp` 或 `MultiQC` 等高质量开源项目的结构，强调了**输入格式**、**参数逻辑**和**结果解读**。
-
-您可以将以下内容保存为项目根目录下的 `README.md` 文件。
-
+gemini生成的文档。如遇冲突，已代码实际内容为准。
 ---
 
 # 🧬 集成化 RNA-Seq 与 A-to-I RNA 编辑分析全流程
