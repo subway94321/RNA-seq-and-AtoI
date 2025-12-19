@@ -1,0 +1,13 @@
+sample,fastq_1,fastq_2,strandedness
+IR_edit_1,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/K560-LHK28395_L1_1.fq.gz,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/K560-LHK28395_L1_2.fq.gz,auto
+IR_edit_2,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/I117-LHK28396_L1_1.fq.gz,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/I117-LHK28396_L1_2.fq.gz,auto
+IR_edit_3,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/I119-LHK28397_L1_1.fq.gz,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/I119-LHK28397_L1_2.fq.gz,auto
+IR_CTRLvirus_1,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/X857-LHK28398_L1_1.fq.gz,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/X857-LHK28398_L1_2.fq.gz,auto
+IR_CTRLvirus_2,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/X856-LHK28399_L1_1.fq.gz,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/X856-LHK28399_L1_2.fq.gz,auto
+IR_CTRLvirus_3,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/X744-LHK28400_L1_1.fq.gz,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/X744-LHK28400_L1_2.fq.gz,auto
+IR_1,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/V432-LHK28401_L1_1.fq.gz,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/V432-LHK28401_L1_2.fq.gz,auto
+IR_2,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/I110-LHK28402_L1_1.fq.gz,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/I110-LHK28402_L1_2.fq.gz,auto
+IR_3,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/v447-LHK28403_L1_1.fq.gz,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/v447-LHK28403_L1_2.fq.gz,auto
+sham_1,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/sham1-LHK28404_L1_1.fq.gz,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/sham1-LHK28404_L1_2.fq.gz,auto
+sham_2,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/sham2-LHK28405_L1_1.fq.gz,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/sham2-LHK28405_L1_2.fq.gz,auto
+sham_3,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/sham3-LHK28406_L1_1.fq.gz,/cluster/home/sunxiaozhi/rna_seq/yqx_rnaseq_8r/raw_data/sham3-LHK28406_L1_2.fq.gz,auto

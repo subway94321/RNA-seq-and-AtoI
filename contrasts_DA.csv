@@ -1,0 +1,4 @@
+id,variable,reference,target,blocking
+IR_CTRLvirus_vs_IR_Edit,condition,IR_CTRLvirus,IR_edit,
+IR_vs_IR_Edit,condition,IR,IR_edit,
+Sham_vs_IR_Edit,condition,sham,IR_edit,
